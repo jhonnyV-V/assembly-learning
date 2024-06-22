@@ -1,0 +1,2 @@
+as hello.s -o output.o
+gcc -o output output.o -nostdlib -static
